@@ -41,10 +41,10 @@ EEG-Clustering-KMeans/
 ---
 
 ## 🧠 Use Case
-- This project is useful for:
-- 1.)Understanding clustering in EEG data.
-- 2.)Exploring brainwave patterns related to cognitive states.
-- 3.)Learning practical applications of unsupervised machine learning.
+This project is useful for:
+- Understanding clustering in EEG data.
+- Exploring brainwave patterns related to cognitive states.
+- Learning practical applications of unsupervised machine learning.
 
 ---
 
