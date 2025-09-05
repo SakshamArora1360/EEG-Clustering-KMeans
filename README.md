@@ -5,7 +5,7 @@ The workflow includes **data preprocessing, scaling, clustering, and visualizati
 
 ---
 
-## 📊 Features
+## Features
 - Reads and processes EEG dataset (`EEG_data.csv`).
 - Drops irrelevant columns to focus on important features.
 - Standardizes data using **StandardScaler**.
@@ -17,11 +17,11 @@ The workflow includes **data preprocessing, scaling, clustering, and visualizati
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 EEG-Clustering-KMeans/
-│── EEG_data.csv # Dataset 
-│── eeg_kmeans_clustering.py # Main Python script
-│── README.md # Project documentation
+- ── EEG_data.csv # Dataset 
+- ── eeg_kmeans_clustering.py # Main Python script
+- ── README.md # Project documentation
 
 ---
 
@@ -33,14 +33,14 @@ EEG-Clustering-KMeans/
 
   ---
   
-## 📈 Results
+## Results
 - Elbow Plot helps visualize the drop in inertia to choose possible K.
 - Silhouette Score Plot identifies the optimal K.
 - Final clusters are plotted on Attention vs Mediation, showing distinct groups with centroids.
 
 ---
 
-## 🧠 Use Case
+## Use Case
 This project is useful for:
 - Understanding clustering in EEG data.
 - Exploring brainwave patterns related to cognitive states.
@@ -48,6 +48,6 @@ This project is useful for:
 
 ---
 
-## 📌 Example Visualization
+## Example Visualization
 - Clustered scatter plot of Attention vs Mediation with centroids.
 - Helps in interpreting cognitive state separation.
