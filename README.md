@@ -27,9 +27,9 @@ EEG-Clustering-KMeans/
 
 ## Output Example
 - Elbow and Silhouette Score Plots
-  <img width="704" height="367" alt="image" src="https://github.com/user-attachments/assets/0f846f30-cb23-41c2-91b2-cb5512917de6" />
+- <img width="704" height="367" alt="image" src="https://github.com/user-attachments/assets/0f846f30-cb23-41c2-91b2-cb5512917de6" />
 - Cluster Scatter Plots with Centroids
-  <img width="376" height="287" alt="image" src="https://github.com/user-attachments/assets/c5cc6004-9ce5-4fb2-8857-a281f9c3aa58" />
+- <img width="376" height="287" alt="image" src="https://github.com/user-attachments/assets/c5cc6004-9ce5-4fb2-8857-a281f9c3aa58" />
 
   ---
   
@@ -42,9 +42,9 @@ EEG-Clustering-KMeans/
 
 ## 🧠 Use Case
 - This project is useful for:
--- Understanding clustering in EEG data.
--- Exploring brainwave patterns related to cognitive states.
--- Learning practical applications of unsupervised machine learning.
+- 1.)Understanding clustering in EEG data.
+- 2.)Exploring brainwave patterns related to cognitive states.
+- 3.)Learning practical applications of unsupervised machine learning.
 
 ---
 
